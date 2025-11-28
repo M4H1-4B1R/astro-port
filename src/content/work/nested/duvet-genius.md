@@ -1,7 +1,7 @@
 ---
-title: Duvet Genius
+title: Grand Computers LTD. Landing Page
 publishDate: 2020-03-04 00:00:00
-img: /astro-port/assets/stock-3.jpg
+img: /astro-port/assets/work-1.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   We developed a virtual showcase for the softest bedding imaginable.
